@@ -1,0 +1,20 @@
+// Functions group multiple lines of code under a single name 
+// when you run a function you can provide function with data 
+ex. 
+function.add() {
+  todos.push('another item');
+  console.log(todos);
+
+}
+
+//svaki put kad se ukuca add(); bice ubacen novi another item. 
+//mora da se za novi red klikne shift enter 
+// da bi funkcija bila pozvana mora da se posle imena ukuca zagrada 
+// ubacivanje podatakau funkciju 
+// posle zadava funcije ne ide tacka zapeta
+
+function demoFunction(myData) { // myData acts as a variable 
+ console.log(myData);
+}
+demoFunction('Talija') //myData=Talija
+demoFunction('Papucic') // myData=Papucic

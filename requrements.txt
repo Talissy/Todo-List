@@ -1,0 +1,68 @@
+Verson 12 
+[x]Each todo should have it's own edit button 
+[x] Buttons should actually work 
+[x] If someone hits cancel we should od nothing 
+[x] If someone hits ok and the field is empty we should dod nothing 
+
+
+Verson 11 
+[x] Each todo should have it's own toggle button 
+[x] The toggle buttons should actually work 
+
+
+Verson 10
+[x] Each todo should have it's own remove button 
+[x] The remove buttons should actually work 
+
+Verson 9
+[x] There should be an li for each todo 
+[x] Each li should show the todoText property 
+[x] Each li should show the complited property 
+
+
+Verson 8
+[x] There should be a working button for adding a todo 
+[x] There should be a working button for editing a todo  
+[x] There should be a working button for removing a todo 
+[x] There should be a working button for toggeling a todo
+
+Verson 7
+[x] It should have a dispalyTodos button
+[x] The displayTodos button should run the dispalTodos function
+[x] It should have a toggleAll button 
+[x] The toggleAll button should run the toggleAll function 
+
+
+Verson 6 
+[x] It should have a function for toggeling all todos
+[x] If everything is false change everything to true 
+[x] If everything is true change everything to false 
+[x] If mixed change everything to true 
+
+Verson 5
+[x] It should have a function to display todos
+[x] displayTodos should show the todoText property
+[x] displayTodos should show complited property 
+
+Verson 4
+[x] It should have a function to toggle a todo. 
+
+
+
+Verson 3 
+[x] We should initialize todos variable with objects
+[x] The add function should add objects 
+[x] Edit function should edit objects 
+
+Verson2
+[x]It should have a function to add a todos
+[x]It should have a function to edit a todo
+[x]It should have a function to remove a todo
+
+
+Version 1
+[x]It should have a place to store todos
+[x]It should have a way to display todos
+[x]It should have a way to add a todos
+[x]It should have a way to edit a todo
+[x]It should have a way to remove a todo
